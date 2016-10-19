@@ -1,0 +1,14 @@
+{
+  "name": "scram",
+  "license": "MIT",
+  "tags": [
+    "SCRAM", "rfc5802"
+  ],
+  "classPath": "src",
+  "contributors": [
+    "kevinresol"
+  ],
+  "releasenote": "initial release",
+  "version": "0.1.0",
+  "dependencies": {}
+}
