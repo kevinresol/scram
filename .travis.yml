@@ -23,9 +23,9 @@ script:
   - haxelib run travix interp
   - haxelib run travix neko
   - haxelib run travix python
-  - haxelib run travix node
+  # - haxelib run travix node # pending hxnodejs release
   - haxelib run travix js
-  - haxelib run travix flash
+  # - haxelib run travix flash # flash is mad
   - haxelib run travix java
   - haxelib run travix cpp
   - haxelib run travix cs
